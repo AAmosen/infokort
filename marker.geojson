@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "farve": "rød",
+        "url": "http://dr.dk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25875473022461,
+          55.5838753654205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.258583068847656,
+          55.58135268971011
+        ]
+      }
+    }
+  ]
+}
