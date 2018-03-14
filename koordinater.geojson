@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Punkts%202%20-%20Gul",
+        "url": "https://aamosen.github.io/infokort/shelter_yellow.html",
         "farve": "Gul",
         "navn": "Sø-Shelter"
       },
@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Punkt%203%20Bl%C3%A5",
+        "url": "https://aamosen.github.io/infokort/fisk_blue.html",
         "farve": "Blå",
         "navn": "Fisk i Søen"
       },
@@ -34,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Kongsg%C3%A5rden%20Punkt%204%20Gr%C3%B8n",
+        "url": "https://aamosen.github.io/infokort/Kongsgaarden_Punkt_4_Green.html",
         "farve": "Grøn",
         "navn": "Kongsgården"
       },
@@ -49,7 +49,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://aamosen.github.io/infokort/Havørner_Blå.html",
+        "url": "https://aamosen.github.io/infokort/Hav%C3%B8rnen_blaa.html",
         "farve": "Blå",
         "navn": "Havørnen"
       },
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Kulthus%20Gr%C3%B8n",
+        "url": "https://aamosen.github.io/infokort/Kulthus_Green.html",
         "farve": "Grøn",
         "navn": "Kulthuset"
       },
@@ -79,7 +79,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Odderpassage%2C%20bl%C3%A5",
+        "url": "odderpassage_blue.html",
         "farve": "Blå",
         "navn": "Odderpassagen"
       },
@@ -88,6 +88,51 @@
         "coordinates": [
           11.249855160713196,
           55.568295555905294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "farve": "Blå",
+        "navn": "Højmosen",
+        "url": "https://aamosen.github.io/infokort/Hoejmose_blue.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.369626522064209,
+          55.60343272798789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "farve": "Gul",
+        "navn": "Formidlingscenteret",
+        "url": "http://naturparkaamosen.dk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.252392530441284,
+          55.57478599903158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "farve": "Rød",
+        "url": "https://aamosen.github.io/infokort/tyr.html",
+        "navn": "Myten om Tyr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26599669456482,
+          55.56934956763222
         ]
       }
     }
