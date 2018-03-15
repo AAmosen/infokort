@@ -51,7 +51,7 @@
       "properties": {
         "navn": "RUC Bibliotek",
         "farve": "Grøn",
-        "url": "https://aamosen.github.io/infokort/"
+        "url": "https://aamosen.github.io/infokort/bibliotek.html"
       },
       "geometry": {
         "type": "Point",
