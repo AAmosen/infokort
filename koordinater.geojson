@@ -34,22 +34,10 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://aamosen.github.io/infokort/Kongsgaarden_Punkt_4_Green.html",
-        "farve": "Grøn",
-        "navn": "Kongsgården"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.25526249408722,
-          55.574693502587216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "url": "https://aamosen.github.io/infokort/Hav%C3%B8rnen_blaa.html",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/infokort/Havoernen_blue.html",
         "farve": "Blå",
         "navn": "Havørnen"
       },
@@ -79,7 +67,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "odderpassage_blue.html",
+        "url": "https://aamosen.github.io/infokort/odderpassage_blue.html",
         "farve": "Blå",
         "navn": "Odderpassagen"
       },
@@ -133,6 +121,21 @@
         "coordinates": [
           11.26599669456482,
           55.56934956763222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Kongsgården",
+        "farve": "Grøn",
+        "url": "https://aamosen.github.io/infokort/Kongsgaarden_Punkt_4_Green.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.255289316177368,
+          55.57485423397385
         ]
       }
     }
