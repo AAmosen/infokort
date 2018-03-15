@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Kantinen",
+        "farve": "Rød",
+        "url": "https://aamosen.github.io/infokort/Ruc_kantine.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139517068862915,
+          55.65353652616599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Studenterhuset",
+        "farve": "Gul",
+        "url": "https://aamosen.github.io/infokort/Student.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13715136051178,
+          55.65237732809412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Humtek",
+        "farve": "Blå",
+        "url": "https://aamosen.github.io/infokort/Ruc_HumTek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138272523880005,
+          55.653046216809386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "RUC Bibliotek",
+        "farve": "Grøn",
+        "url": "https://aamosen.github.io/infokort/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136231362819672,
+          55.6516524335301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "FABLAB",
+        "farve": "Grøn",
+        "url": "https://aamosen.github.io/infokort/fablab.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137752175331116,
+          55.65305227004874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "SØENS PIZZA",
+        "farve": "Rød",
+        "url": "https://aamosen.github.io/infokort/Søenspiz.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.134439647197723,
+          55.651048596706275
+        ]
+      }
+    }
+  ]
+}
